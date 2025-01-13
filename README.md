@@ -1,6 +1,6 @@
 # Repository di test
 
-questo è il mio prim repository su Github
+questo è il mio primo repository su Github
 
 ## Sottotitolo 1
 
